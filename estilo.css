@@ -1,0 +1,45 @@
+ body {
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     background-color: rgb(221, 211, 198);
+ }
+
+ .title {
+     text-align: center;
+     color: brown;
+ }
+
+ .paragraph {
+     font-size: large;
+     width: 500px;
+     text-align: justify;
+ }
+
+ .list {
+     line-height: 2;
+ }
+
+ .image {
+     border-radius: 50px;
+ }
+
+ .image {
+     width: 500px;
+ }
+
+ table,
+ th,
+ td {
+     border: 1px solid;
+ }
+
+ table {
+     width: 500px;
+     border-collapse: collapse;
+     background-color: rgb(224, 162, 147);
+ }
+
+ a:hover {
+     color: brown;
+ }
